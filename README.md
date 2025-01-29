@@ -1,5 +1,5 @@
 ##Simetrik guacamole
-***ole***
+-***ole***
 
-made for ***EDUCATIONAL***purposes
-protected by CC(Creative Commons) license
+-made for ***EDUCATIONAL***purposes
+-protected by CC(Creative Commons) license
