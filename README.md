@@ -1,2 +1,5 @@
-# symmetrical-octo-guacamole
-guakamole yi simetrik yap
+##Simetrik guacamole
+***ole***
+
+made for ***EDUCATIONAL***purposes
+protected by CC(Creative Commons) license
